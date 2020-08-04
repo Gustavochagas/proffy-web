@@ -1,7 +1,7 @@
 import React from 'react';
 import PageHeader from '../../components/PageHeader';
 
-import './styles.css';
+import './styles.sass';
 import TeacherItem from '../../components/TeacherItem';
 
 function TeacherList() {
